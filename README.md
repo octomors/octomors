@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## GitHub Education enjoyer
 <!--
 **sh8m8n/sh8m8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
